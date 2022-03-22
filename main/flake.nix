@@ -9,7 +9,7 @@
   
   inputs.src-spfun-main.flake = false;
   inputs.src-spfun-main.owner = "c-blake";
-  inputs.src-spfun-main.ref   = "refs/heads/main";
+  inputs.src-spfun-main.ref   = "main";
   inputs.src-spfun-main.repo  = "spfun";
   inputs.src-spfun-main.type  = "github";
   
